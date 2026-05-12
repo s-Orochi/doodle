@@ -12,6 +12,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Система контроля версий Git");
             Console.WriteLine("Практическая работа");
+
+            Console.WriteLine("\n--- Дополнительная информация ---");
+            Console.WriteLine("Git позволяет:");
+            Console.WriteLine("- отслеживать изменения;");
+            Console.WriteLine("- работать в команде;");
+            Console.WriteLine("- возвращаться к старым версиям");
         }
     }
 }
